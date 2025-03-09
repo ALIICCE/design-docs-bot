@@ -1,4 +1,4 @@
-# TITULO DEL DESIGN DOC
+# Learning English Bot
 Link: [Link a este design doc](#)
 
 Author(s): Charlie L
@@ -27,25 +27,17 @@ Ultima actualización: YYYY-MM-DD
 - [Otro link](#)
 
 ## Objetivo
-_Que y porque estamos haciendo esto?_
-
-_Incluye contexto para las personas que no están familiarizadas con el proyecto._
-
-_Mantenlo corto, elabora en **Background, Overview y Detailed Design**_
-
-_Añade screenshots / mocks si lo ves necesario_
+Crear un bot de telegram que te ayude a practicar el ingles.
 
 ## Goals
-- Goals
+- Practicar tu ingles con un bot de telegram
+- Tener la funcion de dar tanto ejemplos o ejercicios de la palabra utilizada
+- Que coloque de manera textual la pronunciacion
 ## Non-Goals
-- Non-Goals
+- Ser unicamente un traductor
 
 ## Background
-_Cuál es el contexto de este proyecto?_
-
-_Incluye recursos, como otros design docs si es necesario_
-
-_No escribas acerca de tu diseño o requerimientos aquí_
+Hace poco entre a un curso de ingles, y aunque es muy efectivo, un bot que me de aun mas ejemplos, como retos me ayudaria a practicar mas.
 
 ## Overview
 _Overview a alto nivel de tu propuesta_
