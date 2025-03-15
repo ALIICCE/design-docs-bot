@@ -40,11 +40,9 @@ Crear un bot de telegram que te ayude a practicar el ingles.
 Hace poco entre a un curso de ingles, y aunque es muy efectivo, un bot que me de aun mas ejemplos, como retos me ayudaria a practicar mas.
 
 ## Overview
-_Overview a alto nivel de tu propuesta_
+Necesitamos una API con una extensa lista de palabras en ingles
 
-_Esta sección debería ser entendible por nuevos miembros de tu equipo que no están relacionados al proyecto_
-
-_Pon detalles en la siguiente sección_
+Ademas de oraciones para poder dar los ejemplos
 
 ## Detailed Design
 _Usa diagramas donde veas necesario_
